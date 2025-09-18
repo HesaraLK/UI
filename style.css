@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inspiration&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: white;
+}
+
+.abcd{
+    width: 100%;
+    height: 70px;
+    box-shadow: 0px 10px 15px 1px #f3f3f3;
+}
+
+.a{
+    width: 25%;
+    height: 70px;
+    float: left;
+    justify-items: center;
+    margin-top: 20px;
+}
+
+#logoo{
+    font-family: "Inspiration", cursive;
+  font-weight: 400;
+  font-size: 24px;
+}
+
+.b{
+    width: 50%;
+    height: 70px;
+    float: left;
+}
+
+.span{
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  color: #565656;
+  justify-items: center;
+  margin-right: 45px;
+  margin-top: 25px;
+  line-height: 70px;
+}
+
+#button1{
+    border: none;
+    width: 38%;
+    padding: 10px;
+    color: white;
+    border-radius: 5px;
+    background: linear-gradient(to left, #6675f7,#570070);
+    float: right;
+    margin-right: 40px;
+}
+
+.d{
+    width: 50%;
+    height: 571px;
+    float: left;
+}
+
+.e{
+    width: 50%;
+    height: 571px;
+    float: left;
+
+}
+
+img{
+    width: 80%;
+    height: 500px;
+}
+
+h2{
+    font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-size: 50px;
+  margin-left: 80px;
+}
+
+.built{
+    font-weight: 800;
+}
+
+.pro{
+    font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-size: 50px;
+  background: -webkit-linear-gradient(#F7666F, #406AFF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+p{
+    font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  color: #5d5d5d;
+  margin-left: 80px;
+}
+
+#button2{
+    border: none;
+    width: 20%;
+    height: 40px;
+    padding: 14px;
+    color: white;
+    border-radius: 5px;
+    background-color: rgb(85, 85, 255);
+clear: both;
+margin-left: 80px;
+}
